@@ -1,11 +1,11 @@
-
 {
   "owner": {
     "username": "aquav2ry",
     "email": "peyssrrend@atomicmail.io"
   },
   "record": {
-    "CNAME": "samix33-production.up.railway.app"
+    "CNAME": "vxiy7q8w.up.railway.app",
+    "TXT": ["railway-verify=a9ca65f8bcfc9addec79eeb77dc1bb3d89bad9063e9f39e1e93aa2096b97d207"]
   },
   "proxied": true
 }
